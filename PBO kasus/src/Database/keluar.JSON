@@ -1,0 +1,44 @@
+[
+  {
+    "tanggalMasuk": "2024-01-25 22:57:07",
+    "tanggalKeluar": "2024-01-25 22:57:46",
+    "platNomor": "W1N",
+    "harga": 0
+  },
+  {
+    "tanggalMasuk": "2024-01-25 23:03:05",
+    "tanggalKeluar": "2024-01-25 23:03:19",
+    "platNomor": "W1R",
+    "harga": 0
+  },
+  {
+    "tanggalMasuk": "2024-01-25 23:04:16",
+    "tanggalKeluar": "2024-01-25 23:04:38",
+    "platNomor": "W1234R",
+    "harga": 0
+  },
+  {
+    "tanggalMasuk": "2024-01-25 23:31:03",
+    "tanggalKeluar": "2024-01-25 23:33:50",
+    "platNomor": "W1234R",
+    "harga": 0
+  },
+  {
+    "tanggalMasuk": "2024-01-25 23:35:10",
+    "tanggalKeluar": "2024-01-25 23:37:56",
+    "platNomor": "W1IR",
+    "harga": 0
+  },
+  {
+    "tanggalMasuk": "2024-01-25 23:49:48",
+    "tanggalKeluar": "2024-01-26 00:06:42",
+    "platNomor": "W1234T",
+    "harga": 10000
+  },
+  {
+    "tanggalMasuk": "2024-01-26 15:37:03",
+    "tanggalKeluar": "2024-01-26 15:37:28",
+    "platNomor": "L 1234 R",
+    "harga": 0
+  }
+]
